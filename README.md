@@ -1,1 +1,1 @@
-# classification of waste using deep learning
+# CLASSIFICATION OF WASTE USING DEEP LEARNING
